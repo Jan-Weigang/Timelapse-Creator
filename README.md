@@ -31,8 +31,11 @@ Starting screen
 Custom screen
 ![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_2.png)
 
-Folder Structure
+Folder Structure (automatically created plus location of batch file)
 ![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_3.png)
+
+Script during encoding
+![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_4.png)
 
 ## Creator's Notice
 This is my first repository so be gentle. I created this mainly for myself but wanted to start sharing these small solutions on here. 
