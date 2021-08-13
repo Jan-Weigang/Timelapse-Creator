@@ -37,5 +37,11 @@ Folder Structure (automatically created plus location of batch file)
 Script during encoding
 ![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_4.png)
 
+## Sample product
+
+Timelapse encoded to gif, 540p at 20fps with a Filesize-limit of 15MB
+![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/my_timelapse_540p20_short.gif)
+
+
 ## Creator's Notice
 This is my first repository so be gentle. I created this mainly for myself but wanted to start sharing these small solutions on here. 
