@@ -23,5 +23,16 @@ These can be used for video editing and later replaced with their full resolutio
 Currently you can use the custom menu to define a nonstandard (i.e. not 16:9) aspect ratio by changing the width (after chosing the height).
 This will crop the video around the center.
 
+## Screenshots
+
+Starting screen
+![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_1.png)
+
+Custom screen
+![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_2.png)
+
+Folder Structure
+![alt text](https://github.com/Jan-Weigang/Timelapse-Creator/blob/main/timelapse_tool_3.png)
+
 ## Creator's Notice
 This is my first repository so be gentle. I created this mainly for myself but wanted to start sharing these small solutions on here. 
